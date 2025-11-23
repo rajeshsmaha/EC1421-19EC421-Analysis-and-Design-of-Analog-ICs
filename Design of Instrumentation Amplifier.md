@@ -1,3 +1,5 @@
+
+
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 #  INSTRUMENTATION AMPLIFIER
 
@@ -29,8 +31,10 @@ performance.
                                                          
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
+<img width="1259" height="1280" alt="image" src="https://github.com/user-attachments/assets/3421af16-fe9c-4c08-817d-b5058bb85e4d" />
 
 ## MODEL GRAPH:
+<img width="1045" height="1255" alt="image" src="https://github.com/user-attachments/assets/0d30f4ef-0fde-4e2c-97a8-178ce610530a" />
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -47,10 +51,13 @@ input value of V1 and V2.
 waveforms are plotted in a graph sheet.
 
 ## TABULATION:
+<img width="1280" height="901" alt="image" src="https://github.com/user-attachments/assets/e2dfa767-9899-461a-a2e7-eb5fd9dfcf29" />
 
 ## CALCULATIONS:
+<img width="644" height="1038" alt="image" src="https://github.com/user-attachments/assets/b8ab0f8d-0cdf-4563-8e89-bd1ecd2a51bc" />
 
 ## GRAPH:
+<img width="975" height="1280" alt="image" src="https://github.com/user-attachments/assets/bde8541b-e8e6-4d3a-b282-aa4253af1636" />
 
  ## RESULTS:
  Thus an instrumentation amplifier was constructed and  tested using op
