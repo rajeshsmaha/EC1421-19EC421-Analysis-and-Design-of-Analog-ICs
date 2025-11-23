@@ -1,3 +1,5 @@
+
+
 # EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
 # Design of Integrator using Op-amp.
 
@@ -41,10 +43,12 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
+<img width="1280" height="969" alt="image" src="https://github.com/user-attachments/assets/23c8b934-2dd0-4591-951e-ef01d0a0a2ae" />
 
 
 
 ## MODEL GRAPH
+<img width="680" height="1115" alt="image" src="https://github.com/user-attachments/assets/527775e9-ba42-4a82-adc3-697191246275" />
 
 
 
@@ -59,9 +63,11 @@ are plotted in a graph sheet.
 
 ## TABULATION:
 
+<img width="1280" height="1018" alt="image" src="https://github.com/user-attachments/assets/bc49a020-0798-40fb-9477-7bce3b2bfec6" />
 
 
 ## GRAPH:
+<img width="719" height="1058" alt="image" src="https://github.com/user-attachments/assets/f2cbbb9f-28ed-466e-b83d-971c77038a39" />
 
 
 
